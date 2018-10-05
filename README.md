@@ -1,5 +1,5 @@
 ## FCC-Scatterplot
-##### Scatterplot project for [freecodecamp.com](https://www.freecodecamp.com/challenges/visualize-data-with-a-scatterplot-graph)
+##### Scatterplot project for [freeCodeCamp](https://www.freecodecamp.org/)
 ##### Check it out [here](https://mot01.github.io/FCC-Scatterplot/)
 
 <br/>
